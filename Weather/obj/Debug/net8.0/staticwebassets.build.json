@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "1vBeB7WImac0G9ZjIClTpr+pB0xuWgAbcjn/C1sMg4w=",
+  "Source": "Weather",
+  "BasePath": "_content/Weather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weather\\wwwroot",
+      "Source": "Weather",
+      "ContentRoot": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\css\\style.css",
+      "SourceId": "Weather",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\index.html",
+      "SourceId": "Weather",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\js\\script.js",
+      "SourceId": "Weather",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}
