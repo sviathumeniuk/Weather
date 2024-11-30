@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\Weather.csproj",
+      "projectUniqueName": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather.csproj",
       "projectName": "Weather",
-      "projectPath": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\Weather.csproj",
+      "projectPath": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather.csproj",
       "packagesPath": "C:\\Users\\Sviat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\obj\\",
+      "outputPath": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sviat\\AppData\\Roaming\\NuGet\\NuGet.Config"

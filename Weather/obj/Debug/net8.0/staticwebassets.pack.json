@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
