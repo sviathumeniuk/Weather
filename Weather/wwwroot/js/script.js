@@ -7,7 +7,7 @@ async function getWeather() {
         return;
     }
 
-        const response = await fetch(`http://localhost:5000/api/weather/${city}`);
+        const response = await fetch(`http://13.90.151.34:5000/api/weather/${city}`);
         
         if (!response.ok) {
             throw new Error('Помилка при отриманні погоди');
