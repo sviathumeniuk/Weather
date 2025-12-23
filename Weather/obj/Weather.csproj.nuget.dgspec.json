@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather.csproj": {}
+    "C:\\Users\\slavy\\Weather\\Weather\\Weather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather.csproj": {
+    "C:\\Users\\slavy\\Weather\\Weather\\Weather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather.csproj",
+        "projectUniqueName": "C:\\Users\\slavy\\Weather\\Weather\\Weather.csproj",
         "projectName": "Weather",
-        "projectPath": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\Weather.csproj",
-        "packagesPath": "C:\\Users\\Sviat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sviat\\Desktop\\pr\\sys_prog\\Weather\\obj\\",
+        "projectPath": "C:\\Users\\slavy\\Weather\\Weather\\Weather.csproj",
+        "packagesPath": "C:\\Users\\slavy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\slavy\\Weather\\Weather\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sviat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\slavy\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -63,6 +64,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.13, 8.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -71,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
